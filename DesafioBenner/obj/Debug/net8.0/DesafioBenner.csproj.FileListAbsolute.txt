@@ -1,0 +1,14 @@
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\bin\Debug\net8.0\DesafioBenner.exe
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\bin\Debug\net8.0\DesafioBenner.deps.json
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\bin\Debug\net8.0\DesafioBenner.runtimeconfig.json
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\bin\Debug\net8.0\DesafioBenner.dll
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\bin\Debug\net8.0\DesafioBenner.pdb
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.AssemblyInfoInputs.cache
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.AssemblyInfo.cs
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.csproj.CoreCompileInputs.cache
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.dll
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\refint\DesafioBenner.dll
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.pdb
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\DesafioBenner.genruntimeconfig.cache
+C:\Projetos Pitao\c#\DesafioBenner\DesafioBenner\obj\Debug\net8.0\ref\DesafioBenner.dll
